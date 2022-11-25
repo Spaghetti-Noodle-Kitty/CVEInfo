@@ -13,13 +13,13 @@
 >
 > You start the program through a Shell of your choosing (CMD, PowerShell, Windows Terminal) with the following command:
 >
-> __Either__ ```CVEInfo.exe %CVE-Number e.g. CVE-2022-69420%```
+> __Either__ ```CVEInfo.exe %CVE-Number e.g. CVE-2014-99999%```
 >
-> __Or__ ```cveinfo %CVE-Number e.g. CVE-2022-69420%```
+> __Or__ ```cveinfo %CVE-Number e.g. CVE-2014-99999%```
 >
 > Additionaly, if you want the CVE-Description aswell, start CVEInfo with a "-d" argument.
 >
-> ```cveinfo %CVE-Number e.g. CVE-2022-69420% -d```
+> ```cveinfo %CVE-Number e.g. CVE-2014-99999% -d```
 
 ## API Key Information
 > As written [here](https://nvd.nist.gov/developers/start-here), the NVD-API has rate-limits built in.
